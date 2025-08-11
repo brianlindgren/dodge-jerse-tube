@@ -1,2 +1,4 @@
 # dodge-jerse-tube
-Pure Data implementatino of waveguide tube physical model, from Computer Music: Synthesis, Composition, and Performance by Charles Dodge and Thomas A. Jerse 
+Pure Data implementation of a waveguide tube physical model, from:
+
+Dodge, Charles, and Thomas A. Jerse. Computer Music: Synthesis, Composition, and Performance. 2. ed, Schirmer Books [u.a.], 1997, p. 280.

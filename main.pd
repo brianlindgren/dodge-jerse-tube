@@ -1,0 +1,14 @@
+#N canvas 568 246 692 598 12;
+#X obj 171 126 tube;
+#X obj 216 315 chanStrip;
+#X obj 184 52 tri;
+#X floatatom 179 16 5 0 0 0 - - - 0;
+#X text 311 317 turn on and raise volume;
+#X text 72 403 Dodge \, Charles \, and Thomas A. Jerse. Computer Music: Synthesis \, Composition \, and Performance. 2 ed \, Schirmer Books [u.a.] \, 1997 \, p.280.;
+#X text 74 365 from:;
+#X text 224 15 set frequency;
+#X connect 0 0 1 0;
+#X connect 0 1 1 1;
+#X connect 2 0 0 0;
+#X connect 2 0 0 1;
+#X connect 3 0 2 0;
